@@ -1,0 +1,112 @@
+body 
+{
+    direction:rtl;
+    font-family: "Alef Hebrew",
+               “Helvetica Neue”,
+               Helvetica,
+               Arial,
+               sans-serif;
+    
+}
+
+#container
+{
+     /*background-image:url(../image/tmunot.jpg);*/
+
+    margin: 0 auto;
+    width: 900px;
+    text-align:right;
+}
+.peregraf
+{
+    display: block;
+    margin-top:100px;
+    margin-left:500px;
+    /*margin-right:50px;*/    
+}
+
+#picher_japan
+{
+    color:white;
+    display: block;    float: right;
+
+    background-image:url(../image/tmunot3.jpg);
+    height:160px;
+    width:200px;
+    background-position:700px -1755px; 
+    
+}
+
+#picher_japan:hover{
+     color:black;
+    display: block;    float: right;
+
+    background-image:url(../image/tmunot3.jpg);
+    height:160px;
+    width:200px;
+    background-position:700px -1550px; 
+}
+
+#picher_cohe
+{
+    color:white;
+    display: block;    float: right;
+
+    background-image:url(../image/tmunot3.jpg);
+    height:160px;
+    width:200px;
+    background-position:700px -250px; 
+    
+}
+
+#picher_cohe:hover
+{
+    color:black;
+    display: block;    float: right;
+
+    background-image:url(../image/tmunot3.jpg);
+    height:160px;
+    width:200px;
+    background-position:700px -5px; 
+    
+}
+#my_famely
+{
+    color:white;
+    display: block;    float: right;
+
+    background-image:url(../image/tmunot3.jpg);
+    height:160px;
+    width:200px;
+    background-position:700px -660px;
+}
+#my_famely:hover
+{
+    color:black;
+    display: block;    float: right;
+
+    background-image:url(../image/tmunot3.jpg);
+    height:160px;
+    width:200px;
+    background-position:700px -480px;
+}
+#my_frand
+{
+    color:white;
+    display: block;    float: right;
+
+    background-image:url(../image/tmunot3.jpg);
+    height:160px;
+    width:200px;
+    background-position:700px 949px;
+}
+#my_frand:hover
+{
+    color:black;
+    display: block;    float: right;
+
+    background-image:url(../image/tmunot3.jpg);
+    height:160px;
+    width:200px;
+    background-position:700px 1120px;
+}
